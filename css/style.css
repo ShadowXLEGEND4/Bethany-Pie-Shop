@@ -1,0 +1,65 @@
+body{
+    background: #f8d7d7;
+}
+
+#header-nav, #footer .container{
+    background: #b08cbe;
+}
+
+#header-nav .nav-link{
+    color: white;
+}
+
+#main .container{
+    background: white;
+}
+
+#h1{
+    font-style: oblique;
+    color: #b08cbe;
+}
+
+#hh1{
+    font-style: oblique;  
+    color: #b08cbe; 
+}
+
+.h2{
+    color: #b08cbe;
+    font-style: oblique;
+}
+
+.apple, .pies, .cherry{
+    font-family: fantasy;
+    color: #b08cbe;
+}
+
+.form-group{
+    font-style: italic;
+}
+
+.old-price, .price{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#name, #phone, #email, #subject, #message{
+    font-style: inherit;
+}
+
+.image-fluid{
+    width: 189px;
+    height: 119px;
+}
+
+.paragraph{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.btn{
+    border-radius: 7px;
+}
+
+.applePie{
+    border: 4px solid #b08cbe;
+    border-radius: 7px;
+}
